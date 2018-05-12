@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1986
     wikipedia: http://en.wikipedia.org/wiki/Charles_Sumner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45473#Charles-Sumner--his-complete-works--Volume-2--of-20-With-an-introduction-by-Hon.-George-Frisb_
 gutenberg_issued: '2014-04-24'
 gutenberg_type: Text
 identifiers:
